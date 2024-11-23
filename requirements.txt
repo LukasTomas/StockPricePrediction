@@ -1,0 +1,7 @@
+torch
+numpy
+pandas
+pandas_ta
+matplotlib
+sklearn
+rich
